@@ -1,4 +1,7 @@
-import java.util.Scanner;
+import     // Output the sum of the numbers
+        System.out.println("The sum of the numbers is: " + sum);
+    } 
+}java.util.Scanner;
 
 public class SumNumbers {
     public static void main(String[] args) {
@@ -23,7 +26,4 @@ public class SumNumbers {
             System.out.println("Invalid input, please enter valid integers.");
         }
 
-        // Output the sum of the numbers
-        System.out.println("The sum of the numbers is: " + sum);
-    }
-}
+    
